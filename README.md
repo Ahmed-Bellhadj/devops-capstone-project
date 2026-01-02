@@ -1,3 +1,7 @@
+# devops-capstone-project
+
+This project is a DevOps capstone project focused on applying DevOps practices such as version control, continuous integration, continuous delivery, containerization, and cloud-native development. The goal is to build, test, and deploy an application using modern DevOps tools and workflows.
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
